@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TuneVault - Your Music Library</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🎵 TuneVault</h1>
+            <p class="tagline">Organize your music collection</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- Search and Filter Section -->
+        <section class="controls">
+            <div class="search-bar">
+                <input 
+                    type="text" 
+                    id="searchInput" 
+                    placeholder="Search by artist, album, or genre..."
+                    aria-label="Search music library"
+                >
+                <button id="searchBtn" aria-label="Search">Search</button>
+            </div>
+            
+            <div class="filters">
+                <select id="genreFilter" aria-label="Filter by genre">
+                    <option value="">All Genres</option>
+                </select>
+                <select id="sortBy" aria-label="Sort albums">
+                    <option value="artist">Sort by Artist</option>
+                    <option value="album">Sort by Album</option>
+                    <option value="year">Sort by Year</option>
+                </select>
+            </div>
+        </section>
+
+        <!-- Stats Section -->
+        <section class="stats" id="stats">
+            <div class="stat-card">
+                <h3 id="totalAlbums">0</h3>
+                <p>Total Albums</p>
+            </div>
+            <div class="stat-card">
+                <h3 id="totalArtists">0</h3>
+                <p>Artists</p>
+            </div>
+            <div class="stat-card">
+                <h3 id="totalGenres">0</h3>
+                <p>Genres</p>
+            </div>
+        </section>
+
+        <!-- Album Grid -->
+        <section class="album-grid" id="albumGrid">
+            <!-- Albums will be dynamically inserted here -->
+        </section>
+
+        <!-- No Results Message -->
+        <div id="noResults" class="no-results" style="display: none;">
+            <p>No albums found matching your search.</p>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 TuneVault. Built for music lovers.</p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "artist": "The Beatles",
+    "album": "Abbey Road",
+    "year": 1969,
+    "genre": "Rock",
+    "emoji": "🎸"
+  },
+  {
+    "id": 2,
+    "artist": "Pink Floyd",
+    "album": "The Dark Side of the Moon",
+    "year": 1973,
+    "genre": "Progressive Rock",
+    "emoji": "🌙"
+  },
+  {
+    "id": 3,
+    "artist": "Miles Davis",
+    "album": "Kind of Blue",
+    "year": 1959,
+    "genre": "Jazz",
+    "emoji": "🎺"
+  },
+  {
+    "id": 4,
+    "artist": "Nirvana",
+    "album": "Nevermind",
+    "year": 1991,
+    "genre": "Grunge",
+    "emoji": "🤘"
+  },
+  {
+    "id": 5,
+    "artist": "Daft Punk",
+    "album": "Random Access Memories",
+    "year": 2013,
+    "genre": "Electronic",
+    "emoji": "🤖"
+  },
+  {
+    "id": 6,
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp a Butterfly",
+    "year": 2015,
+    "genre": "Hip Hop",
+    "emoji": "🦋"
+  },
+  {
+    "id": 7,
+    "artist": "Fleetwood Mac",
+    "album": "Rumours",
+    "year": 1977,
+    "genre": "Rock",
+    "emoji": "⚡"
+  },
+  {
+    "id": 8,
+    "artist": "Radiohead",
+    "album": "OK Computer",
+    "year": 1997,
+    "genre": "Alternative",
+    "emoji": "💻"
+  },
+  {
+    "id": 9,
+    "artist": "Bob Marley & The Wailers",
+    "album": "Legend",
+    "year": 1984,
+    "genre": "Reggae",
+    "emoji": "🌴"
+  },
+  {
+    "id": 10,
+    "artist": "Led Zeppelin",
+    "album": "Led Zeppelin IV",
+    "year": 1971,
+    "genre": "Rock",
+    "emoji": "🔥"
+  },
+  {
+    "id": 11,
+    "artist": "Billie Eilish",
+    "album": "When We All Fall Asleep, Where Do We Go?",
+    "year": 2019,
+    "genre": "Pop",
+    "emoji": "😴"
+  },
+  {
+    "id": 12,
+    "artist": "The Weeknd",
+    "album": "After Hours",
+    "year": 2020,
+    "genre": "R&B",
+    "emoji": "🌃"
+  },
+  {
+    "id": 13,
+    "artist": "Queen",
+    "album": "A Night at the Opera",
+    "year": 1975,
+    "genre": "Rock",
+    "emoji": "👑"
+  },
+  {
+    "id": 14,
+    "artist": "Arctic Monkeys",
+    "album": "AM",
+    "year": 2013,
+    "genre": "Indie Rock",
+    "emoji": "🐵"
+  },
+  {
+    "id": 15,
+    "artist": "Taylor Swift",
+    "album": "1989",
+    "year": 2014,
+    "genre": "Pop",
+    "emoji": "✨"
+  },
+  {
+    "id": 16,
+    "artist": "David Bowie",
+    "album": "The Rise and Fall of Ziggy Stardust",
+    "year": 1972,
+    "genre": "Glam Rock",
+    "emoji": "⚡"
+  },
+  {
+    "id": 17,
+    "artist": "Adele",
+    "album": "21",
+    "year": 2011,
+    "genre": "Soul",
+    "emoji": "💔"
+  },
+  {
+    "id": 18,
+    "artist": "The Clash",
+    "album": "London Calling",
+    "year": 1979,
+    "genre": "Punk",
+    "emoji": "🎤"
+  },
+  {
+    "id": 19,
+    "artist": "Amy Winehouse",
+    "album": "Back to Black",
+    "year": 2006,
+    "genre": "Soul",
+    "emoji": "🖤"
+  },
+  {
+    "id": 20,
+    "artist": "Stevie Wonder",
+    "album": "Songs in the Key of Life",
+    "year": 1976,
+    "genre": "R&B",
+    "emoji": "🎹"
+  }
+]
